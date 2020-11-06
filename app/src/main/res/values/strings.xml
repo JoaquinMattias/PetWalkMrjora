@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pet Walk</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="e_mailinicio">E-mail</string>
+    <string name="claveinicio">Clave</string>
+    <string name="iniciarbtn">Iniciar</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombreCliente">Nombre</string>
+    <string name="apellidoCliente">Apellido</string>
+    <string name="celularCliente">Celular</string>
+    <string name="comunaCliente">Región</string>
+    <string name="ciudadCliente">Ciudad</string>
+    <string name="siguienteRC">Siguiente</string>
+    <string name="tipo_de_usuario">Tipo de Usuario</string>
+    <string name="clientebtn">Cliente</string>
+    <string name="paseadorbtn">Paseador</string>
+    <string name="apellidoPaseador">Apellido</string>
+    <string name="nombrePaseador">Nombre</string>
+    <string name="rutPaseador">Rut</string>
+    <string name="celularPaseador">Celular</string>
+    <string name="comunaPaseador">Región</string>
+    <string name="ciudadPaseaor">Ciudad</string>
+    <string name="siguienteRP">Siguiente</string>
+    <string name="e_mailRegistro">E-mail</string>
+    <string name="claveRegistro">Clave</string>
+    <string name="confirmar_claveR">Confirmar Clave</string>
+    <string name="aceptarRegistro">Aceptar</string>
+    <string name="ImgR">Img</string>
+    <string name="title_activity_maps_b">Map</string>
+    <string name="btnMapa">BuscarMps</string>
+    <string name="buttonGPS">GPS</string>
+
+</resources>
